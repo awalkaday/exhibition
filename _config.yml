@@ -1,4 +1,3 @@
+title: Exhibition at Hectolitre
+description: Simulation of a 3D Exhibition during Brussels Art Week
 theme: jekyll-theme-leap-day
-remote_theme: pages-themes/leap-day@v0.2.0
-plugins:
-- jekyll-remote-theme 
