@@ -1,2 +1,2 @@
-# exhibition-hectolitre
-This exhibition will be moved from the virtual to the physical world at Hectolitre, September 4 - 6, 2025.
+# Simulations of 3D Exhibitions 
+This first-of-its-kind exhibition will be moved by its visitors from the virtual to the physical world at Hectolitre, September 4 - 6, 2025.
