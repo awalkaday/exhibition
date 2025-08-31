@@ -1,4 +1,4 @@
-# dear guest, draw on my exhibition’s walls
+# dear guest, draw on my 3D walls
 
 use any web browser, on any brand of computers.  
 step into a tunnel, leading to a [virtual exhibition](https://oncyber.io/awalkaday.art).  
