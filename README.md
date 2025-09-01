@@ -1,5 +1,5 @@
-# Simulations of a 3D Exhibition 
+# Simulation of a 2-in-1 Exhibition 
 
-A two-in-one exhibition walking its first steps in the minds of its visitors, from the virtual to the physical world, at __Hectolitre__ for three days.  
+A couple of 3-dimensional exhibitions walking their first steps in the minds of visitors, from the virtual world to the physical walls, at __Hectolitre__ for 3 days.  
 
-Mark your calendars for an OPEN DOORS exhibition of black-and-white photos shot by __daqhris__, showcased during __Brussels Art Week__ from September 4 - 6, 2025. 
+Mark your calendars for an OPEN DOORS exhibition of black-and-white photos shot by __daqhris__, showcased during __Brussels Art Week__ on September 4, 5, 6 of 2025. 
