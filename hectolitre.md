@@ -9,6 +9,8 @@ Walk around, left and right, front and back, as *you* wish.
 Unlock the guestbook with *your* digital identity keys.  
 Remember to write down *your* mark, onsite, online!  
 
+__Location: https://oncyber.io/awalkaday.art__  
+
 ## do not exit, yet.  
 
 Afterward, walk into another open door at [Hectolitre](http://hectolitre.space).  
@@ -17,6 +19,8 @@ Afterward, walk into another open door at [Hectolitre](http://hectolitre.space).
 *I* will hand you writing tools inside of the lookalike walls.  
 *Our* walls keep the exhibition obedient to physical laws.  
 The brick-and-mortar art exhibition is housed in [Brussels](https://www.brussels.be/).  
+
+__Location: 2nd floor of Reactor, Rue de l'Hectolitre 3__
 
 ## do not exit, yet, please.  
 
