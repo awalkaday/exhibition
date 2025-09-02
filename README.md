@@ -1,4 +1,4 @@
-# Simulation of a 2-in-1 Exhibition 
+# Simulations of a 2-in-1 Exhibition 
 
 ## Simulation #1
 ### *Leave your marks on my exhibitions (2025)*   
