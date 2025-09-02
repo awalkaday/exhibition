@@ -18,7 +18,7 @@ Afterward, walk into another open door at [Hectolitre](http://hectolitre.space).
 *Your* electronic identity card stays at home when visiting.  
 *I* will hand you writing tools inside of the lookalike walls.  
 *Our* walls keep the exhibition obedient to physical laws.  
-The brick-and-mortar art exhibition is housed in [Brussels](https://www.brussels.be/).  
+The brick-and-mortar art exhibition is housed in [Brussels](https://www.brussels.be/brussels-art-week).  
 
 __Location: [2nd floor of Reactor, Rue de l'Hectolitre 3](https://maps.app.goo.gl/ZXzGSwkDz2LP2gpJ9)__
 
