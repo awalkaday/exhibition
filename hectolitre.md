@@ -41,4 +41,4 @@ ____
 
 > Credits: 
 > - Texts, Photos, Painting & Coding: Chris-Armel Iradukunda (daqhris)  
-> - Sounds: Wind by Maria Stuut, cameleon.be by Aziz InterMarrakesh  
+> - Sounds: Wind by [Maria Stuut](https://mubi.com/nl/cast/maria-stuut), [cameleon.be](https://youtu.be/T24Tpv02TxY?feature=shared) by [Aziz InterMarrakesh](https://www.youtube.com/@abdelaaziz13030)  
