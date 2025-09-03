@@ -39,7 +39,6 @@ _**Your**_ mark's photo will be hung on cyber walls after the moonrise.
 
 ____
 
-> [!NOTE]
 > Credits: 
 > - Texts, Photos, Painting & Coding: Chris-Armel Iradukunda (daqhris)  
 > - Sounds: Wind by Maria Stuut, cameleon.be by Aziz InterMarrakesh  
