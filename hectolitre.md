@@ -36,3 +36,9 @@ Every in-person visit will end with one digital photo!
 
 Exit the exhibitions, when _**your**_ face smiles, before the next sunrise.  
 _**Your**_ mark's photo will be hung on cyber walls after the moonrise.  
+
+____
+
+Credits: 
+- Texts, Photos & Coding: Chris-Armel Iradukunda (daqhris)  
+- Sounds: Wind by Maria Stuut, cameleon.be by Aziz InterMarrakesh  
