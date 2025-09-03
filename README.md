@@ -1,4 +1,5 @@
 # Simulations of a 2-in-1 Exhibition 
+A series of pop-up exhibitions inside of ground-based walls which are painted and designed to host the __awalkaday.art__ Photo Collection. 
 
 ## Simulation #1
 ### *Leave your marks on my exhibitions (2025)*   
