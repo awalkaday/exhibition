@@ -9,7 +9,10 @@ Walk around, left and right, front and back, as *you* wish.
 Unlock the guestbook with *your* digital identity keys.  
 Remember to write down *your* mark, onsite, online!  
 
-__Location → [https://oncyber.io/awalkaday.art](https://oncyber.io/awalkaday.art)__  
+__Locations:__ 
+
+__→ [oncyber.io/awalkaday.art](https://oncyber.io/awalkaday.art) (PC & Mac)__  
+__→ [instagram.com/walk.day/reel/C3LmebUo0o4/](https://www.instagram.com/walk.day/reel/C3LmebUo0o4/) (Smartphone)__
 
 ## _do not exit, yet._  
 
