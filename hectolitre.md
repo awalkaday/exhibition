@@ -41,4 +41,9 @@ ____
 
 > Credits: 
 > - Texts, Photos, Painting & Coding: [Chris-Armel Iradukunda (daqhris)](https://daqhris.com)    
-> - Sounds: Wind by [Maria Stuut](https://mubi.com/nl/cast/maria-stuut) • [cameleon.be](https://youtu.be/T24Tpv02TxY?feature=shared) by [Aziz InterMarrakesh](https://www.youtube.com/@abdelaaziz13030)  
+> - Sounds: Wind by [Maria Stuut](https://mubi.com/nl/cast/maria-stuut) • [cameleon.be](https://youtu.be/T24Tpv02TxY?feature=shared) by [Aziz InterMarrakesh](https://www.youtube.com/@abdelaaziz13030)
+
+> Visitors:   
+> _1. ...._  
+> _2. ...._  
+> _3. ...._  
