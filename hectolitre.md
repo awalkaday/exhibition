@@ -35,5 +35,5 @@ Every in-person visit will end with one digital photo!
 
 ## _close, windows, then doors._  
 
-Exit the exhibition, when *your* face smiles, before the next sunrise.  
+Exit the exhibitions, when *your* face smiles, before the next sunrise.  
 *Your* mark's photo will be hung on cyber walls after the moonrise.  
