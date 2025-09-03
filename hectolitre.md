@@ -4,7 +4,7 @@
 
 Use any web browser, on any computer, from anywhere.  
 Step into a fast-moving tunnel, skip asking *[daqhris](https://daqhris.com)* for keys.  
-Pass through its open door, on the way to a [virtual exhibition](https://oncyber.io/awalkaday.art).  
+Pass through its open door, on the way to a virtual exhibition.  
 Walk around, left and right, front and back, as *you* wish.   
 Unlock the guestbook with *your* digital identity keys.  
 Remember to write down *your* mark, onsite, online!  
