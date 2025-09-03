@@ -43,9 +43,9 @@ ____
 > - Texts, Photos, Painting & Coding: [Chris-Armel Iradukunda (daqhris)](https://daqhris.com)    
 > - Sounds: Wind by [Maria Stuut](https://mubi.com/nl/cast/maria-stuut) • [caméléon.be](https://youtu.be/T24Tpv02TxY?feature=shared) by [Aziz InterMarrakesh](https://www.youtube.com/@abdelaaziz13030)
 
-> Visitors:   
-> _1. ...._  
-> _2. ...._  
-> _3. ...._  
+> _**Visitors:**_   
+> _**1. ....**_  
+> _**2. ....**_  
+> _**3. ....**_  
 
-> __*Time of page update: [Today at 01:32](https://github.com/awalkaday/exhibition/commits/main/hectolitre.md)*__ 
+> Time of last update: [Today at 01:32](https://github.com/awalkaday/exhibition/commits/main/hectolitre.md) 
