@@ -12,7 +12,7 @@ Remember to write down _**your**_ mark, onsite, online!
 __Locations:__ 
 
 __→ [oncyber.io/awalkaday.art](https://oncyber.io/awalkaday.art)__ *(PC or Mac with a graphics card)*    
-__→ [instagram.com/walk.day/reel/C3LmebUo0o4/](https://www.instagram.com/walk.day/reel/C3LmebUo0o4/)__ *(Smartphone: comment=guestbook)*
+__→ [instagram.com/walk.day/reel/C3LmebUo0o4/](https://www.instagram.com/walk.day/reel/C3LmebUo0o4/)__ *(Phone: comment=guestbook)*
 
 ## _do not exit, yet._  
 
