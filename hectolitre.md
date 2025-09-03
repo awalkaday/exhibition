@@ -3,7 +3,7 @@
 ## _dear visiting guest,_
 
 Use any web browser, on any computer, from anywhere.  
-Step into a fast-moving tunnel, skip asking _**[daqhris](https://daqhris.com)**_ for keys.  
+Step into a fast-moving tunnel, skip asking _**daqhris**_ for keys.  
 Pass through its open door, on the way to a virtual exhibition.  
 Walk around, left and right, front and back, as *you* wish.   
 Unlock the guestbook with _**your**_ digital identity key.  
