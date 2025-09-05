@@ -10,8 +10,8 @@ Unlock the guestbook with _**your**_ digital identity key.
 Remember to write down _**your**_ mark, onsite, online!  
 
 __Locations:__   
-__→ [oncyber.io/awalkaday.art](https://oncyber.io/awalkaday.art)__ *(PC/Mac: with a graphics card)*    
-__→ [instagram.com/walk.day](https://www.instagram.com/walk.day/reel/C3LmebUo0o4/)__ *(Phone: leave a comment)*
+__→ [oncyber.io/awalkaday.art](https://oncyber.io/awalkaday.art)__ *(Best for PC/Mac)*    
+__→ [instagram.com/walk.day](https://www.instagram.com/walk.day/reel/C3LmebUo0o4/)__ *(Best for Phone)*
 
 ## _do not exit, yet._  
 
@@ -34,8 +34,8 @@ Every in-person visit will end with one digital photo!
 
 ## _close, windows, then doors._  
 
-[Exit](https://exhibition.awalkaday.art/) the exhibition, when _**your**_ face smiles, before the next sunrise.  
-_**Your**_ mark's photo will be hung on cyber walls after the moonrise.  
+[Exit](https://exhibition.awalkaday.art/) the 2-in-1 exhibition, when _**your**_ face smiles, before closing time.  
+_**Your**_ mark's photo will be hung on cyber walls after [Brussels Art Week](https://rendezvousbxl.com/).  
 
 ____
 
@@ -43,4 +43,4 @@ ____
 > - Texts, Photos, Painting & Coding: [Chris-Armel Iradukunda (daqhris)](https://daqhris.com)    
 > - Sounds: Wind by [Maria Stuut](https://mubi.com/nl/cast/maria-stuut) • [caméléon.be](https://youtu.be/T24Tpv02TxY?feature=shared) by [Aziz InterMarrakesh](https://www.youtube.com/@abdelaaziz13030)
 
-> Time of last update: [Today at 09:46](https://github.com/awalkaday/exhibition/commits/main/hectolitre.md) 
+> *Time of last update: [Today at 09:46](https://github.com/awalkaday/exhibition/commits/main/hectolitre.md)* 
