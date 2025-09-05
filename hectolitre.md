@@ -41,6 +41,6 @@ ____
 
 > Credits:   
 > - Texts, Photos, Painting & Coding: [Chris-Armel Iradukunda (daqhris)](https://daqhris.com)     
-> - Sounds: Wind by [Maria Stuut](https://mubi.com/nl/cast/maria-stuut) • [caméléon.be](https://youtu.be/T24Tpv02TxY?feature=shared) by [Aziz InterMarrakesh](https://www.youtube.com/@abdelaaziz13030)   
+> - Sound: [caméléon.be #2](https://youtu.be/T24Tpv02TxY?feature=shared) by [Aziz InterMarrakesh](https://www.youtube.com/@abdelaaziz13030)   
 
 > *Time of last update: [Today at 10:17](https://github.com/awalkaday/exhibition/commits/main/hectolitre.md)*    
