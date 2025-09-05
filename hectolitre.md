@@ -34,13 +34,13 @@ Every in-person visit will end with one digital photo!
 
 ## _close, windows, then doors._  
 
-[Exit](https://exhibition.awalkaday.art/) the 2-in-1 exhibition, when _**your**_ face smiles, before closing time.  
-_**Your**_ mark's photo will be hung on cyber walls after [Brussels Art Week](https://rendezvousbxl.com/).  
+[Exit](https://exhibition.awalkaday.art/) the 2-in-1 exhibition, when _**your**_ face smiles, before closing time.    
+_**Your**_ mark's photo will be hung on cyber walls after [Brussels Art Week](https://rendezvousbxl.com/).    
 
 ____
 
-> Credits: 
-> - Texts, Photos, Painting & Coding: [Chris-Armel Iradukunda (daqhris)](https://daqhris.com)    
-> - Sounds: Wind by [Maria Stuut](https://mubi.com/nl/cast/maria-stuut) • [caméléon.be](https://youtu.be/T24Tpv02TxY?feature=shared) by [Aziz InterMarrakesh](https://www.youtube.com/@abdelaaziz13030)
+> Credits:   
+> - Texts, Photos, Painting & Coding: [Chris-Armel Iradukunda (daqhris)](https://daqhris.com)     
+> - Sounds: Wind by [Maria Stuut](https://mubi.com/nl/cast/maria-stuut) • [caméléon.be](https://youtu.be/T24Tpv02TxY?feature=shared) by [Aziz InterMarrakesh](https://www.youtube.com/@abdelaaziz13030)   
 
-> *Time of last update: [Today at 09:46](https://github.com/awalkaday/exhibition/commits/main/hectolitre.md)* 
+> *Time of last update: [Today at 10:17](https://github.com/awalkaday/exhibition/commits/main/hectolitre.md)*    
