@@ -10,8 +10,8 @@ Unlock the guestbook with _**your**_ digital identity key.
 Remember to write down _**your**_ mark, onsite, online!  
 
 __Locations:__   
-__→ [oncyber.io/awalkaday.art](https://oncyber.io/awalkaday.art)__ *(PC/Mac with a graphics card)*    
-__→ [instagram.com/walk.day](https://www.instagram.com/walk.day/reel/C3LmebUo0o4/)__ *(Phone, just leave a comment)*
+__→ [oncyber.io/awalkaday.art](https://oncyber.io/awalkaday.art)__ *(PC/Mac: with a graphics card)*    
+__→ [instagram.com/walk.day](https://www.instagram.com/walk.day/reel/C3LmebUo0o4/)__ *(Phone: leave a comment)*
 
 ## _do not exit, yet._  
 
@@ -43,9 +43,4 @@ ____
 > - Texts, Photos, Painting & Coding: [Chris-Armel Iradukunda (daqhris)](https://daqhris.com)    
 > - Sounds: Wind by [Maria Stuut](https://mubi.com/nl/cast/maria-stuut) • [caméléon.be](https://youtu.be/T24Tpv02TxY?feature=shared) by [Aziz InterMarrakesh](https://www.youtube.com/@abdelaaziz13030)
 
-> _**Visitors:**_   
-> _**1. ....**_  
-> _**2. ....**_  
-> _**3. ....**_  
-
-> Time of last update: [Today at 01:32](https://github.com/awalkaday/exhibition/commits/main/hectolitre.md) 
+> Time of last update: [Today at 09:46](https://github.com/awalkaday/exhibition/commits/main/hectolitre.md) 
