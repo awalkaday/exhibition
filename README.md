@@ -7,4 +7,4 @@ It's a couple of 3-dimensional exhibitions walking their first steps in the mind
 
 __Start here → [exhibition.awalkaday.art/hectolitre](https://exhibition.awalkaday.art/hectolitre)__  
 
-> _Time of last update: [Today at 09:45](https://github.com/awalkaday/exhibition/commits/main/README.md)_  
+> _Time of last update: [Today at 11:03](https://github.com/awalkaday/exhibition/commits/main/README.md)_  
