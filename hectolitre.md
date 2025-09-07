@@ -57,22 +57,22 @@ At the center of the black room was situated two photographic tools embracing ea
 
 ## Before  
 <p>
-      <img src="Simulation-1/ea2bf0c6-ad97-4d6a-9b18-94a6eed4af23.jpg" style="width: 50%;" /> 
-      <img src="Simulation-1/0d437feb-ced0-4fca-8216-424db287a88b.jpg" style="width: 50%;" /> 
-      <img src="Simulation-1/7bc05892-1295-4c4e-ba68-2844b15573dc.jpg" style="width: 50%;" /> 
-      <img src="Simulation-1/7c3a80b3-9f2b-41cb-bdb9-9d05f7b3457e.jpg" style="width: 50%;" /> 
-      <img src="Simulation-1/8e7b2ea2-97e6-4ffb-80ac-86e078b0d5ec.jpg" style="width: 50%;" />
+      <img src="Simulation-1/ea2bf0c6-ad97-4d6a-9b18-94a6eed4af23.jpg" style="width: 75%;" /> 
+      <img src="Simulation-1/0d437feb-ced0-4fca-8216-424db287a88b.jpg" style="width: 75%;" /> 
+      <img src="Simulation-1/7bc05892-1295-4c4e-ba68-2844b15573dc.jpg" style="width: 75%;" /> 
+      <img src="Simulation-1/7c3a80b3-9f2b-41cb-bdb9-9d05f7b3457e.jpg" style="width: 75%;" /> 
+      <img src="Simulation-1/8e7b2ea2-97e6-4ffb-80ac-86e078b0d5ec.jpg" style="width: 75%;" />
 </p>  
 
 ## During  
 <p>
-      <img src="Simulation-1/1697c518-3d27-4ba0-8aa8-b421f836d10f.jpg" style="width: 50%;" /> 
-      <img src="Simulation-1/885afec5-c5a9-4a71-a36b-43a936ab4bba.jpg" style="width: 50%;" /> 
-      <img src="Simulation-1/209945aa-ffe1-4a3a-b506-f04887e28345.jpg" style="width: 50%;" /> 
-      <img src="Simulation-1/07121350-27e4-457b-964b-c62738fc4877.jpg" style="width: 50%;" /> 
-      <img src="Simulation-1/841ef700-5de6-4c99-8ac7-14380ed99696.jpg" style="width: 50%;" /> 
-      <img src="Simulation-1/a1405539-f315-43b5-a207-5a1eb5d8530c.jpg" style="width: 50%;" /> 
-      <img src="Simulation-1/29dc8bf6-0987-4955-8af9-98f05facc875.jpg" style="width: 50%;" /> 
+      <img src="Simulation-1/1697c518-3d27-4ba0-8aa8-b421f836d10f.jpg" style="width: 75%;" /> 
+      <img src="Simulation-1/885afec5-c5a9-4a71-a36b-43a936ab4bba.jpg" style="width: 75%;" /> 
+      <img src="Simulation-1/209945aa-ffe1-4a3a-b506-f04887e28345.jpg" style="width: 75%;" /> 
+      <img src="Simulation-1/07121350-27e4-457b-964b-c62738fc4877.jpg" style="width: 75%;" /> 
+      <img src="Simulation-1/841ef700-5de6-4c99-8ac7-14380ed99696.jpg" style="width: 75%;" /> 
+      <img src="Simulation-1/a1405539-f315-43b5-a207-5a1eb5d8530c.jpg" style="width: 75%;" /> 
+      <img src="Simulation-1/29dc8bf6-0987-4955-8af9-98f05facc875.jpg" style="width: 75%;" /> 
 </p>
       
 ____
