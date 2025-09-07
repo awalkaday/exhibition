@@ -45,11 +45,10 @@ ____
 
 ____
 
-# Photo Report    
-## Day ZERO  
-## Day ONE    
-## Day TWO  
-## Day THREE  
+# Photo report    
+## Before  
+## During  
+      
 ____
 
 > *Time of last update: [7th of September 2025](https://github.com/awalkaday/exhibition/commits/main/hectolitre.md)*    
