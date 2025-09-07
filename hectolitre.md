@@ -47,10 +47,11 @@ ____
 
 # Photo report    
 ## Before  
-<img src="Simulation-1/ea2bf0c6-ad97-4d6a-9b18-94a6eed4af23.jpg" width="500" height="500" /> <img src="Simulation-1/0d437feb-ced0-4fca-8216-424db287a88b.jpg" width="500" height="500" />
-<img src="Simulation-1/7bc05892-1295-4c4e-ba68-2844b15573dc.jpg" width="500" height="500" />
-<img src="Simulation-1/7c3a80b3-9f2b-41cb-bdb9-9d05f7b3457e.jpg" width="500" height="500" />
-<img src="Simulation-1/8e7b2ea2-97e6-4ffb-80ac-86e078b0d5ec.jpg" />
+<img src="Simulation-1/ea2bf0c6-ad97-4d6a-9b18-94a6eed4af23.jpg" width="500" height="500" />   
+<img src="Simulation-1/0d437feb-ced0-4fca-8216-424db287a88b.jpg" width="500" height="500" /> 
+<img src="Simulation-1/7bc05892-1295-4c4e-ba68-2844b15573dc.jpg" width="500" height="500" />  
+<img src="Simulation-1/7c3a80b3-9f2b-41cb-bdb9-9d05f7b3457e.jpg" width="500" height="500" />  
+<img src="Simulation-1/8e7b2ea2-97e6-4ffb-80ac-86e078b0d5ec.jpg" width="500" height="500" />  
 
 ## During  
       
