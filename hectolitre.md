@@ -72,7 +72,7 @@ At the center of the black room was situated two photographic tools embracing ea
       <img src="Simulation-1/07121350-27e4-457b-964b-c62738fc4877.jpg" style="width: 50%;" /> 
       <img src="Simulation-1/841ef700-5de6-4c99-8ac7-14380ed99696.jpg" style="width: 50%;" /> 
       <img src="Simulation-1/a1405539-f315-43b5-a207-5a1eb5d8530c.jpg" style="width: 50%;" /> 
-      <img src="Simulation-1/209945aa-ffe1-4a3a-b506-f04887e28345.jpg" style="width: 50%;" /> 
+      <img src="Simulation-1/29dc8bf6-0987-4955-8af9-98f05facc875.jpg" style="width: 50%;" /> 
 </p>
       
 ____
