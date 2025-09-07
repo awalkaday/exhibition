@@ -47,6 +47,12 @@ ____
 
 # Photo report    
 ## Before  
+![Day-Zero-Photo-1](Simulation-1/0d437feb-ced0-4fca-8216-424db287a88b.jpg)  
+![Day-Zero-Photo-2](Simulation-1/7bc05892-1295-4c4e-ba68-2844b15573dc.jpg)  
+![Day-Zero-Photo-3](Simulation-1/7c3a80b3-9f2b-41cb-bdb9-9d05f7b3457e.jpg)  
+![Day-Zero-Photo-4](Simulation-1/8e7b2ea2-97e6-4ffb-80ac-86e078b0d5ec.jpg)  
+![Day-Zero-Photo-5](Simulation-1/ea2bf0c6-ad97-4d6a-9b18-94a6eed4af23.jpg)  
+
 ## During  
       
 ____
