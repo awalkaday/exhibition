@@ -45,7 +45,14 @@ ____
 
 ____
 
-# Photo report    
+# Photo report 
+_Visual documentation of before the opening of doors, and while at least fifty visitors walked into the simulated photography studio. 
+The photos portray the decor, writings or drawings left on my exhibition's walls on the second floor of Reactor inside of Hectolitre, where I had painted and designed a space for the occasion. 
+After the interactive and participative exhibition, I layered on top of them black or white marks to not reveal in front of public eyes everything so soon. 
+My computer was put at the disposal of visitors to have a glimpse at the virtual exhibition rooom on top of a table in the middle of the white room. 
+A wooden box containing handwriting tools, like chalks and spray cans colored either in black or white, was placed near the entrance. Notice how windows had to remain open all time.
+At the center of the black room was situated two photographic tools, one defunct and ancient found on the spot, and another modern one quite ready for shooting the visitors' marks._ 
+
 ## Before  
 <p>
       <img src="Simulation-1/ea2bf0c6-ad97-4d6a-9b18-94a6eed4af23.jpg" style="width: 50%;" /> 
@@ -68,4 +75,4 @@ ____
       
 ____
 
-> *Date of last update: [7th of September 2025](https://github.com/awalkaday/exhibition/commits/main/hectolitre.md)*    
+> *Date of last update: [8th of September 2025](https://github.com/awalkaday/exhibition/commits/main/hectolitre.md)*    
