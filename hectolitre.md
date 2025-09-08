@@ -40,8 +40,9 @@ _**Your**_ mark's photo will be hung on cyber walls after [Brussels Art Week](ht
 ____
 
 > Credits:   
-> - Texts, Photos, Painting & Coding: [Chris-Armel Iradukunda (daqhris)](https://daqhris.com)     
-> - Sound: [caméléon.be #2](https://youtu.be/T24Tpv02TxY?feature=shared) by [Aziz InterMarrakesh](https://www.youtube.com/@abdelaaziz13030)
+> - Texts, Photos, Painting, Design & Coding: [Chris A. Iradukunda (daqhris)](https://daqhris.com)     
+> - 2-in-1 Rooms Sound: [caméléon.be #2](https://youtu.be/T24Tpv02TxY?feature=shared) by [Aziz InterMarrakesh](https://www.youtube.com/@abdelaaziz13030)
+> - Artistic inspiration: [On Ecrit Sur Les Murs](https://www.youtube.com/watch?v=ir31nLRLXLI) by KIDS UNITED
 
 ____
 
