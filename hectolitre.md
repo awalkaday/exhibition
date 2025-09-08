@@ -56,8 +56,7 @@ _My computer was put at the disposal of visitors to have a glimpse at the virtua
 A wooden box containing handwriting tools, like chalks and spray cans (colored either in black or white), was placed near the wide-open entrance. Notice how windows remained open all the time.
 At the center of the black room was situated two photographic machines embracing each other, one defunct and ancient stored in the room, and one modern Canon ready for photoshoots of the marks._ 
 
-_To everyone who made the trip on short notice, **thank you** very much from the artistic heart of Brussels!   
-Including the days-old baby of friends whose name I left on walls despite swearing to not write anywhere._
+_To everyone who made the trip on short notice, **thank you** very much from the artistic heart of Brussels! Including the days-old baby of friends whose name I left on walls despite swearing to not write anywhere._
 
 ### Before  
 <p>
