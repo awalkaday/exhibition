@@ -46,7 +46,7 @@ ____
 
 ____
 
-# Photo report 
+# Photo report of the exhibition 
 _Below is the visual documentation of before the opening of Hectolitre's doors, and while at least 50 visitors walked into the simulation of a photographer's studio. 
 The photos portray the rooms' decor and drawings on my exhibition's walls on the 2nd floor within Reactor, where I had painted and designed a space for the occasion. 
 After the interactive and participative exhibition, I drew black and white marks on them to not reveal in front of public eyes everything so early. 
