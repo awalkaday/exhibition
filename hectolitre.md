@@ -46,14 +46,14 @@ ____
 ____
 
 # Photo report 
-_Visual documentation of before the opening of doors, and while at least fifty visitors walked into the simulated photography studio. 
-The photos portray the rooms' decor, drawings left on my exhibition's walls on the 2nd floor of Reactor inside of Hectolitre, where I had painted and designed a space. 
-After the interactive and participative exhibition, I drew black or white marks on them to not reveal in front of the public eyes everything so early. 
-They are squarely edited and styled in the fashion of [awalkaday](https://github.com/awalkaday) photohraphs._ 
+_Below is the visual documentation of before the opening of Hectolitre's doors, and while at least 50 visitors walked into the photographer's studio. 
+The photos portray the rooms' decor and drawings on my exhibition's walls on the 2nd floor within Reactor, where I had painted and designed a space. 
+After the interactive and participative exhibition, I drew black and white marks on them to not reveal in front of public eyes everything so early. 
+They were shot, squarely edited and styled by use of apps on a smartphone in the fashion of [awalkaday.art](https://awalkaday.art) Photo Collection._ 
 
 _My computer was put at the disposal of visitors to have a glimpse at the virtual exhibition rooom on top of a wooden table in the middle of the white room. Chairs and a coat hanger, as well. 
 A wooden box containing handwriting tools, like chalks and spray cans colored either in black or white, was placed near the wide-open entrance. Notice how windows had to remain open all time.
-At the center of the black room was situated two photographic tools embracing each other, one defunct and ancient stored in the room, and another modern one quite ready for shooting the marks._ 
+At the center of the black room was situated two photographic tools embracing each other, one defunct and ancient stored in the room, and one modern Canon ready for photoshoots of the marks._ 
 
 ## Before  
 <p>
