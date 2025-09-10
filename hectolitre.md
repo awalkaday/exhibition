@@ -41,12 +41,12 @@ ____
 
 > **Credits**:   
 > - Texts, Photos, Painting, Design & Coding: [Chris A. Iradukunda (daqhris)](https://daqhris.com)     
-> - 2-in-1 Rooms Sound: [caméléon.be #2](https://youtu.be/T24Tpv02TxY?feature=shared) by [Aziz InterMarrakesh](https://www.youtube.com/@abdelaaziz13030)
-> - Artistic inspiration: [On Ecrit Sur Les Murs](https://www.youtube.com/watch?v=ir31nLRLXLI) by [Kids United](https://en.wikipedia.org/wiki/Kids_United)
+> - Soundscape: [caméléon.be #2](https://youtu.be/T24Tpv02TxY?feature=shared) by [Aziz InterMarrakesh](https://www.youtube.com/@abdelaaziz13030)
+> - Lyrical inspiration: [On Ecrit Sur Les Murs](https://www.youtube.com/watch?v=ir31nLRLXLI) by [Kids United](https://en.wikipedia.org/wiki/Kids_United)
 
 ____
 
-## Photo report of the exhibition 
+## Photo report of the 2-in-1 exhibition 
 _Below is the visual documentation of before the opening of Hectolitre's doors, and while at least 50 visitors walked into the simulation of a photographer's studio._ 
 
 ### Before
