@@ -40,7 +40,7 @@ _**Your**_ mark's photo will be hung on cyber walls after [Brussels Art Week](ht
 ____
 
 > **Credits**:   
-> - Texts, Photos, Painting, Design & Coding: [Chris A. Iradukunda (daqhris)](https://daqhris.com)     
+> - Texts, Photos, Painting, Design & Coding: [Chris-Armel Iradukunda (daqhris)](https://daqhris.com)     
 > - Soundscape: [caméléon.be #2](https://youtu.be/T24Tpv02TxY?feature=shared) by [Aziz InterMarrakesh](https://www.youtube.com/@abdelaaziz13030)
 > - Lyrical inspiration: [On Ecrit Sur Les Murs](https://www.youtube.com/watch?v=ir31nLRLXLI) by [Kids United](https://en.wikipedia.org/wiki/Kids_United)
 
@@ -60,7 +60,9 @@ They were shot, squarely edited and styled by use of apps on a smartphone in the
       <img src="Simulation-1/7bc05892-1295-4c4e-ba68-2844b15573dc.jpg" style="width: 75%;" /> 
       <img src="Simulation-1/7c3a80b3-9f2b-41cb-bdb9-9d05f7b3457e.jpg" style="width: 75%;" /> 
       <img src="Simulation-1/8e7b2ea2-97e6-4ffb-80ac-86e078b0d5ec.jpg" style="width: 75%;" />
-</p>  
+</p> 
+
+_See also: [instagram.com/walk.day/p/DORRJWSiD9p](https://www.instagram.com/walk.day/p/DORRJWSiD9p/)_
 
 ### During  
 _My computer was put at the disposal of visitors to have a glimpse at the virtual exhibition hall on top of a wooden table in the middle of the white room. Chairs and a coat hanger were present. 
@@ -77,6 +79,8 @@ At the center of the black room was situated two photographic machines embracing
       <img src="Simulation-1/29dc8bf6-0987-4955-8af9-98f05facc875.jpg" style="width: 75%;" /> 
 </p>
 
+_See also: [instagram.com/walk.day/p/DOUDoczCDXw](https://www.instagram.com/walk.day/p/DOUDoczCDXw/)_
+
 ### After  
 _To everyone who made the trip on short notice, **thank you** very much from the artistic heart of Brussels! Including the absent newborn baby of friends whose name I left on walls despite swearing to not write anywhere._
 
@@ -84,4 +88,4 @@ _To everyone who made the trip on short notice, **thank you** very much from the
       
 ____
 
-> *Date of last update: [10th of September 2025](https://github.com/awalkaday/exhibition/commits/main/hectolitre.md)*    
+> *Date of last update: [11th of September 2025](https://github.com/awalkaday/exhibition/commits/main/hectolitre.md)*    
