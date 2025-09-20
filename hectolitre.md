@@ -1,4 +1,4 @@
-# Leave *your* marks on *my* exhibitions
+# Leave *your* marks on *my* exhibition
 
 ## _dear visiting guest,_
 
@@ -84,8 +84,8 @@ _See also: [instagram.com/walk.day/p/DOUDoczCDXw](https://www.instagram.com/walk
 ### After  
 _To everyone who made the trip on short notice, **thank you** very much from the artistic heart of Brussels! Including the absent newborn baby of friends whose name I left on walls despite swearing to not write anywhere._
 
-#### `COMING OUT SOON`: Photos of all handmade marks on the physical walls.
+#### `COMING OUT SOON`: Photos of all visitors marks on the black and white walls.
       
 ____
 
-> *Date of last update: [11th of September 2025](https://github.com/awalkaday/exhibition/commits/main/hectolitre.md)*    
+> *Date of last update: [20th of September 2025](https://github.com/awalkaday/exhibition/commits/main/hectolitre.md)*    
