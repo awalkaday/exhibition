@@ -88,4 +88,4 @@ _To everyone who made the trip on short notice, **thank you** very much from the
       
 ____
 
-> *Date of last update: [20th of September 2025](https://github.com/awalkaday/exhibition/commits/main/hectolitre.md)*    
+> *Date of last update: [21st of September 2025](https://github.com/awalkaday/exhibition/commits/main/hectolitre.md)*    
