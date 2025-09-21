@@ -46,7 +46,7 @@ ____
 
 ____
 
-## Photo report of the 2-in-1 exhibition 
+## Documentation of the 2-in-1 exhibition 
 _Below is the visual documentation of before the opening of Hectolitre's doors, and while at least 50 visitors walked into the simulation of a photographer's studio._ 
 
 ### Before
