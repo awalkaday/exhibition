@@ -67,7 +67,7 @@ _See also: [instagram.com/walk.day/p/DORRJWSiD9p](https://www.instagram.com/walk
 ### During  
 _My computer was put at the disposal of visitors to have a glimpse at the virtual exhibition hall on top of a wooden table in the middle of the white room. Chairs, a table lamp, a welcome mat and a coat hanger were present. 
 A wooden box containing handwriting tools, such as chalks and spray cans (colored either in black or white), was placed near the wide-open entrance. Notice how windows remained open all the time.
-At the center of the black room was situated two photographic machines embracing each other, one defunct and ancient stored in the room, and one modern Canon on a tripod ready for photoshoots of the marks._ 
+At the center of the black room was situated two photographic machines embracing each other, one defunct and ancient optical enlarger for printmaking in a darkroom, and one modern Canon on standby on a tripod for photoshoots of the marks._ 
 
 <p>
       <img src="Simulation-1/1697c518-3d27-4ba0-8aa8-b421f836d10f.jpg" style="width: 75%;" /> 
