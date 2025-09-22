@@ -47,8 +47,8 @@ ____
 ____
 
 ## Documentation of the 2-in-1 exhibition  
-_Back in February of 2024, a short tour of the virtual simulation of a photo exhibition was filmed within two frames, [landscape](/Simulation-1/OnCyber-2024-02-15_landscape.mp4) and [square](/Simulation-1/OnCyber-2024-02-15_square.mp4), and spread out in cyberspace._ 
-_Below is the visual documentation of before the opening of Hectolitre's doors, and while at least 50 visitors walked into the simulation of a photographer's studio._ 
+_Back in February of 2024, a short tour of the virtually simulated photography exhibition was filmed in two kinds of frames, [landscape](/Simulation-1/OnCyber-2024-02-15_landscape.mp4) and [square](/Simulation-1/OnCyber-2024-02-15_square.mp4), and spread out across cyberspace._ 
+_Below is the visual documentation of before the opening of Hectolitre's doors, and during open hours while at least 50 visitors walked into the physical simulation of a photographer's studio._ 
 
 ### Before
 _The photos portray the rooms' decor and drawings on my exhibition's walls on the 2nd floor within Reactor, where I had painted and designed a space for the occasion. 
