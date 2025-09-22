@@ -47,7 +47,7 @@ ____
 ____
 
 ## Documentation of the 2-in-1 exhibition  
-_Back in February of 2024, a short tour of the virtual simulation of a photo exhibition was filmed within two frames, [landscape](/OnCyber-2024-02-15_landscape.mp4) and [square](/OnCyber-2024-02-15_square.mp4), and spread out in cyberspace._ 
+_Back in February of 2024, a short tour of the virtual simulation of a photo exhibition was filmed within two frames, [landscape](/Simulation-1/OnCyber-2024-02-15_landscape.mp4) and [square](/Simulation-1/OnCyber-2024-02-15_square.mp4), and spread out in cyberspace._ 
 _Below is the visual documentation of before the opening of Hectolitre's doors, and while at least 50 visitors walked into the simulation of a photographer's studio._ 
 
 ### Before
