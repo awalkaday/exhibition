@@ -35,7 +35,7 @@ Every in-person visit will end with one digital photo!
 ### _close, windows, then doors._  
 
 [Exit](https://exhibition.awalkaday.art/) the 2-in-1 exhibition, when _**your**_ face smiles, before closing time.    
-_**Your**_ mark's photo will be hung on cyber walls after [Brussels Art Week](https://rendezvousbxl.com/).    
+_**Your**_ mark's photo will be hung on cyber walls after [RendezVous Brussels Art Week](https://rendezvousbxl.com/).    
 
 ____
 
@@ -89,4 +89,4 @@ _To everyone who made the trip on short notice, **thank you** very much from the
       
 ____
 
-> *Date of last update: [23rd of September 2025](https://github.com/awalkaday/exhibition/commits/main/hectolitre.md)*    
+> *Date of last update: [24th of September 2025](https://github.com/awalkaday/exhibition/commits/main/hectolitre.md)*    
