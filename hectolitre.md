@@ -47,7 +47,10 @@ ____
 ____
 
 ## Documentation of the 2-in-1 exhibition  
-_Back in February of 2024, a video tour of the virtually simulated photo exhibition was filmed in two frame sizes, [landscape](/Simulation-1/OnCyber-2024-02-15_landscape.mp4) and [square](/Simulation-1/OnCyber-2024-02-15_square.mp4), and spread out across cyberspace._ 
+_Back in February of 2024, a video tour of the virtually simulated photo exhibition was filmed in two frame sizes, [landscape](/Simulation-1/OnCyber-2024-02-15_landscape.mp4) and [square](/Simulation-1/OnCyber-2024-02-15_square.mp4), and spread out across cyberspace._  
+
+<p><video controls="" width="100%" max-width="800"><source src="Simulation-1/OnCyber-2024-02-15_square.mp4" type="video/mp4"></video></p>  
+
 _Below is the visual documentation of before the opening of Hectolitre's doors, and during open hours while at least 50 visitors walked into the physical simulation of a photographer's studio._ 
 
 ### Before
@@ -89,4 +92,4 @@ _To everyone who made the trip on short notice, **thank you** very much from the
       
 ____
 
-> *Date of last update: [24th of September 2025](https://github.com/awalkaday/exhibition/commits/main/hectolitre.md)*    
+> *Date of last update: [4th of October 2025](https://github.com/awalkaday/exhibition/commits/main/hectolitre.md)*    
