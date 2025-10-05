@@ -1,4 +1,4 @@
-# Leave *your* marks on *my* exhibition
+# Leave your marks on my exhibition
 
 ## _dear visiting guest,_
 
@@ -46,14 +46,14 @@ ____
 
 ____
 
-## Documentation of the 2-in-1 exhibition  
+# Documentation of the 2-in-1 exhibition  
 _Back in **February of 2024**, a video tour of the virtually simulated photo exhibition was filmed in two frame sizes, [landscape](/Simulation-1/OnCyber-2024-02-15_landscape.mp4) and [square](/Simulation-1/OnCyber-2024-02-15_square.mp4), and spread out across cyberspace._  
 
 <p><video controls="" width="100%" max-width="800"><source src="Simulation-1/OnCyber-2024-02-15_square.mp4" type="video/mp4"></video></p>  
 
 _Below is the visual documentation of before the opening of Hectolitre's doors, and during open hours while **at least 50 humans** walked into the physical simulation of a photographer's studio._ 
 
-### Before
+## Before
 _The photos portray the rooms' decor (and later, drawings) on my exhibition's walls on the 2nd floor within Reactor, where I had painted and designed a space for the occasion. 
 After the **interactive and participatory exhibition**, I drew black and white marks on them to not reveal in front of public eyes everything so early. 
 They were shot, squarely edited and styled by use of apps on a smartphone in the fashion of **[awalkaday.art](https://awalkaday.art) Photo Collection**._
@@ -68,7 +68,7 @@ They were shot, squarely edited and styled by use of apps on a smartphone in the
 
 _See also: [instagram.com/walk.day/p/DORRJWSiD9p](https://www.instagram.com/walk.day/p/DORRJWSiD9p/)_
 
-### During  
+## During  
 _My personal **computer** was put at the disposal of visitors to have a glimpse at the virtual exhibition hall on top of a **wooden table** in the middle of the **white room**. Chairs, a table lamp, a welcome mat and a coat hanger were present. 
 A **wooden rectangular box** containing handwriting tools, such as **chalks** and **spray cans** colored either in **black or white**, was placed near the wide-open entrance. The windows were kept open at all times to let in fresh air and to please the eye. At the center of the **black room** was situated **two photographic machines embracing each other**, one defunct and ancient **optical enlarger for printmaking** in a darkroom, and one modern **Canon-branded DSLR camera** on standby on a tripod for **photoshoots of the marks**._ 
 
@@ -84,10 +84,10 @@ A **wooden rectangular box** containing handwriting tools, such as **chalks** an
 
 _See also: [instagram.com/walk.day/p/DOUDoczCDXw](https://www.instagram.com/walk.day/p/DOUDoczCDXw/)_
 
-### After  
+## After  
 _To everyone who made the trip on short notice, **thank you** very much from the artistic heart of Brussels! Including the absent newborn baby of friends whose name I left on walls despite swearing to not write anywhere._
 
-#### `COMING OUT SOON`: Photos of all marks on the walls of black and white rooms.
+### `COMING OUT SOON`: Photos of all marks on the walls of black and white rooms.
       
 ____
 
