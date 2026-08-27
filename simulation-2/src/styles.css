@@ -1,0 +1,60 @@
+/* simulation-2/src/styles.css
+ *
+ * Base reset and every .gallery-* rule, taken from KilledByAPixel/fxhashArchive's
+ * src/styles.css (MIT licensed — see
+ * simulation-2/THIRD_PARTY_LICENSES/fxhashArchive-LICENSE). Dropped: the site
+ * header, the browsable-grid and token-page rules (no equivalent pages here), and
+ * .gallery-viewer/.gallery-frame/.gallery-bar (styling for the Viewer overlay,
+ * which this app doesn't use — see GalleryView.tsx).
+ */
+
+:root { color-scheme: dark; font-family: system-ui, sans-serif; }
+body { margin: 0; background: #111; color: #eee; }
+a { color: #9ecbff; text-decoration: none; }
+img { max-width: 100%; }
+
+.load-more { display: block; margin: 1.5rem auto; padding: 0.6rem 1.5rem; background: #222; color: #eee; border: 1px solid #444; border-radius: 6px; cursor: pointer; }
+.link-button { background: none; border: 0; padding: 0; color: #aaa; font: inherit; text-decoration: underline; cursor: pointer; }
+
+.gallery { position: fixed; inset: 0; background: #111; overflow: hidden; }
+.gallery-canvas { width: 100%; height: 100%; display: block; touch-action: none; }
+.gallery-loading {
+  position: absolute; inset: 0; margin: 0; padding: 1.5rem;
+  display: flex; align-items: center; justify-content: center; text-align: center; color: #888;
+}
+.gallery-unsupported { display: flex; align-items: center; justify-content: center; padding: 2rem; }
+.gallery-unsupported p { max-width: 30rem; }
+
+.gallery-hud { position: absolute; inset: 0; pointer-events: none; z-index: 2; }
+.gallery-hud-top { display: flex; gap: 1rem; align-items: center; padding: 0.75rem 1rem; }
+.gallery-hud-top > * { pointer-events: auto; }
+.gallery-room { color: #888; flex: 1; pointer-events: none; }
+.gallery-rooms {
+  pointer-events: auto; position: absolute; top: 3.25rem; right: 1rem; min-width: 14rem;
+  max-height: calc(100vh - 5rem); overflow-y: auto;
+  background: #1a1a1a; border: 1px solid #333; border-radius: 8px; padding: 0.5rem 1rem 0.75rem;
+}
+.gallery-rooms h4 { margin: 0.5rem 0 0.25rem; color: #888; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; }
+.gallery-rooms ul { list-style: none; margin: 0; padding: 0; }
+.gallery-rooms .link-button { color: #eee; text-decoration: none; padding: 0.2rem 0; display: block; text-align: left; }
+.gallery-rooms-button { margin: 0; padding: 0.4rem 0.9rem; }
+.gallery-about { max-width: 24rem; color: #ccc; font-size: 0.85rem; line-height: 1.5; }
+.gallery-about p { margin: 0 0 0.75rem; }
+.gallery-about a { color: #9ecbff; }
+.gallery-about a:hover { text-decoration: underline; }
+.gallery-about a::before { content: '← '; }
+.gallery-about a[target="_blank"]::before { content: '↗ '; }
+.gallery-crosshair {
+  position: absolute; left: 50%; top: 50%; width: 6px; height: 6px; margin: -3px 0 0 -3px;
+  border-radius: 50%; background: rgba(255, 255, 255, 0.8);
+}
+.gallery-caption {
+  position: absolute; left: 50%; top: calc(50% + 1.25rem); transform: translateX(-50%); margin: 0;
+  color: #eee; background: rgba(0, 0, 0, 0.6); padding: 0.3rem 0.7rem; border-radius: 6px;
+  font-size: 0.9rem; white-space: nowrap;
+}
+.gallery-hint {
+  position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); margin: 0;
+  color: #ccc; background: rgba(0, 0, 0, 0.6); padding: 0.5rem 1rem; border-radius: 6px;
+}
+.gallery-hint-bottom { top: auto; bottom: 1.5rem; transform: translateX(-50%); font-size: 0.85rem; color: #999; }

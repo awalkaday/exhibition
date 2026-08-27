@@ -1,41 +1,10 @@
-# Simulation #2 — digital foundations
+## Simulation #1
+### *Leave your marks on my exhibition*   
 
-Four files, meant to drop into the existing `exhibition` repo at these paths:
+Welcome to an indoors exhibition of black-and-white photographs shot by __Chris-Armel Iradukunda (daqhris)__, showcased during __RendezVous Brussels Art Week__ on the __4th__ (12:00-22:00), __5th__ and __6th__ (18:00-21:00) of __September 2025__.  
 
-```
-.github/workflows/deploy.yml
-simulation-2/vite.config.ts
-simulation-2/src/gallery/types.ts
-simulation-2/src/gallery/geometry.ts
-```
+It's a couple of 3-dimensional exhibitions walking their first steps in the minds of visitors, from the virtual world to the physical walls, at __Hectolitre__ for 3 days. Next door or on other floors, your senses will also discover mind-blowing works of art presented by five artists-in-residence.    
 
-## What's here
+__Start here → [exhibition.awalkaday.art/hectolitre](https://exhibition.awalkaday.art/hectolitre)__  
 
-- **types.ts** — the data shape the whole app renders from. It's the fxhashArchive
-  `Gallery`/`Room`/`Wall`/`Painting` shape (github.com/KilledByAPixel/fxhashArchive) plus
-  what this year adds: a `Naming` record with a kiosk-stamped timestamp (the temporal
-  signature), an optional `namer` credit and `description`, and forward-compatible
-  `tokenId`/`contract`/`chain` fields for the white cube port later.
-- **geometry.ts** — turns a room's floor polygon into wall segments, with support for
-  leaving a gap for the open, frameless doorway between the two rooms. `POINTS_WHITE` and
-  `POINTS_BLACK` are a first-pass approximation from the measurements given in
-  conversation, not a survey — replace them once you have real numbers or a sketch;
-  everything else derives from those points.
-- **vite.config.ts** — sets `base: '/simulation-2/'` so the built app's asset paths
-  resolve correctly when served from that path under the existing domain.
-- **deploy.yml** — builds the Jekyll site and the Vite app separately, merges them, and
-  deploys both together. Requires one manual switch in the repo's Settings > Pages, from
-  "Deploy from a branch" to "GitHub Actions" — noted in the workflow file itself.
-
-## Deliberately not here
-
-The actual 3D engine — `engine.ts`, `scene.ts`, `controls.ts`, `collide.ts`, `load.ts`,
-`labels.ts`, `approach.ts`, `Hud.tsx`, `Viewer.tsx`, `GalleryView.tsx` — isn't reproduced
-in this scaffold. That code already exists, is MIT-licensed, and is best pulled directly
-from github.com/KilledByAPixel/fxhashArchive rather than retyped here. It's also generic:
-none of it knows about fxhash specifically, so it should drop in with little more than the
-data layer (this scaffold) wired underneath it. Also left out: the naming UI itself (the
-kiosk form, the window check against `namingWindow`, the "who named this" plaque
-rendering) and the script that packs your mark photos and Photo Collection images into
-the atlas + `gallery.json`, mirroring `scripts/build-gallery.mjs` — next things to build,
-once the shape above is confirmed.
+> _Date of last update: [24th of September 2025](https://github.com/awalkaday/exhibition/commits/main/README.md)_  

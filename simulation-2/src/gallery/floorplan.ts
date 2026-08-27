@@ -1,8 +1,11 @@
-// simulation-2/src/gallery/geometry.ts
+// simulation-2/src/gallery/floorplan.ts
 //
-// Turns a room's floor polygon into wall segments. Built for the two real rooms at
-// Hectolitre: an L-shaped white room and a longer, tighter L-shaped black room, open
-// into each other through a doorway with no frame.
+// Named floorplan.ts, not geometry.ts: the vendored engine already has a
+// geometry.ts (mesh/vertex-buffer building, from fxhashArchive) and this file
+// would collide with it. This is the other kind of geometry — turning a room's
+// floor polygon into wall segments. Built for the two real rooms at Hectolitre:
+// an L-shaped white room and a longer, tighter L-shaped black room, open into
+// each other through a doorway with no frame.
 //
 // IMPORTANT: POINTS_WHITE / POINTS_BLACK below are a first-pass approximation built only
 // from the measurements given in conversation (white: square, ~3.5m per wall; black:
@@ -58,7 +61,11 @@ export function boundingRect(points: Point[]): FloorRect {
 
 // --- First-pass floor plans — replace with real measurements when you have them ---
 
-/** White room: roughly square, ~3.5m per wall, with a corner cut to make the L. */
+/**
+ * White room: roughly square, ~3.5m per wall, with a corner cut to make the L.
+ * Edge 1, (3.5,0)→(3.5,2.0), is the wall shared with the black room — see
+ * WHITE_OPENING below, which leaves its z∈[0.5, 2.0] stretch open.
+ */
 export const POINTS_WHITE: Point[] = [
   { x: 0, z: 0 },
   { x: 3.5, z: 0 },
@@ -68,15 +75,25 @@ export const POINTS_WHITE: Point[] = [
   { x: 0, z: 3.5 },
 ]
 
-/** Black room: ~1.5m wide, ~4.5m of total run, bent partway along its length. */
+/**
+ * Black room: ~1.5m wide, ~4.5m of total run (3.0m then a 90° turn for 1.5m
+ * more), both legs 1.5m wide throughout. Edge 5, the closing edge back to point
+ * 0, runs along the same line as the white room's edge 1 — see BLACK_OPENING.
+ */
 export const POINTS_BLACK: Point[] = [
-  { x: 3.5, z: 0.75 },
-  { x: 6.5, z: 0.75 },
-  { x: 6.5, z: 2.25 },
-  { x: 5.0, z: 2.25 },
-  { x: 5.0, z: 3.75 },
-  { x: 3.5, z: 3.75 },
+  { x: 3.5, z: 0.5 },
+  { x: 6.5, z: 0.5 },
+  { x: 6.5, z: 2.0 },
+  { x: 5.0, z: 2.0 },
+  { x: 5.0, z: 3.5 },
+  { x: 3.5, z: 3.5 },
 ]
 
-/** The open doorway between them — no wall, no frame — on their shared edge. */
-export const WHITE_BLACK_OPENING: Opening = { afterIndex: 0, start: 0.2, end: 0.75 }
+/**
+ * The open doorway between them — no wall, no frame. Each room's polygon is its
+ * own closed loop, so the gap has to be declared on both: white's edge 1 and
+ * black's edge 5 both run along x=3.5, and both leave z∈[0.5, 2.0] open — the
+ * full width of the black room's entrance.
+ */
+export const WHITE_OPENING: Opening = { afterIndex: 1, start: 0.25, end: 1 }
+export const BLACK_OPENING: Opening = { afterIndex: 5, start: 0.5, end: 1 }

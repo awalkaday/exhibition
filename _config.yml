@@ -1,3 +1,10 @@
 title: Simulation of a 2-in-1 Exhibition
 description: A series of pop-up artistic installations inside of exhibition venues which are designed to host the awalkaday.art Photo Collection and much more.
 theme: jekyll-theme-slate 
+
+# simulation-2/ is a separate Vite app, built and deployed by
+# .github/workflows/deploy.yml, not by Jekyll. Without this, Jekyll would copy the
+# raw source tree (src/, package.json, tsconfig.json...) into _site/simulation-2/
+# alongside — not on top of, since Jekyll runs first — the actual built app the
+# workflow places there afterwards.
+exclude: [simulation-2]
