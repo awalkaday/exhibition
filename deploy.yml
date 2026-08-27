@@ -1,0 +1,71 @@
+# .github/workflows/deploy.yml
+#
+# Builds the Jekyll site (repo root — README.md, hectolitre.md, etc.) and the
+# Simulation #2 app (simulation-2/) separately, merges them into one output, and
+# deploys the result to GitHub Pages.
+#
+# One-time manual step this requires: in the repo's Settings > Pages, switch the
+# deployment source from "Deploy from a branch" to "GitHub Actions". The classic
+# Jekyll auto-build only publishes the Jekyll pages — it never runs the Vite build,
+# so simulation-2/ would 404 without this switch.
+
+name: Deploy
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build Jekyll site
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: simulation-2/package-lock.json
+
+      - name: Build Simulation #2
+        working-directory: simulation-2
+        run: |
+          npm ci
+          npm run build
+
+      - name: Merge Simulation #2 into the Jekyll output
+        run: |
+          mkdir -p _site/simulation-2
+          cp -r simulation-2/dist/. _site/simulation-2/
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
