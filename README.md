@@ -1,13 +1,5 @@
 # Hybrid Exhibits: awalkaday.art Photos 
 ## Installation, Visual, Participatory Art 
-### Simulation #1
-### Leave your marks on my exhibition   
-
-Welcome to an indoors exhibition of black-and-white photographs shot by __Chris-Armel Iradukunda (daqhris)__, showcased during __RendezVous Brussels Art Week__ on the __4th__ (12:00-22:00), __5th__ and __6th__ (18:00-21:00) of __September 2025__.  
-
-It's a couple of 3-dimensional exhibitions walking their first steps in the minds of visitors, from the virtual world to the physical walls, at __Hectolitre__ for 3 days, on the 2nd floor of Reactor space. Next door or on other floors, your senses will also discover mind-blowing works of art presented by five artists-in-residence.    
-
-__Start here → [exhibition.awalkaday.art/hectolitre](https://exhibition.awalkaday.art/hectolitre)__  
 
 ### Simulation #2
 _Photographic installation with participatory performance and custom 3D web application software_
@@ -19,8 +11,17 @@ For Simulation #2, Iradukunda has built software that reconstructs both rooms as
 Naming them, in the re-opened "Trait d'Union" space, eyes moving side-to-side from wall slideshow to wall papers, is this edition's task during RendezVous Brussels Art Week 2026, shared between the artist and whoever walks in. 
 
 #### Where: Trait d'Union. Rue de l'Hectolitre, 3. 1000 Bruxelles. 
-##### When: 12 - 13 September 2026. Saturday 21h - 22h, Sunday 13h - 18h.     
+##### When: 12 - 13 September 2026. Saturday 21h - 22h, Sunday 13h - 18h.  
+_ _ _  
 
+### Simulation #1
+### Leave your marks on my exhibition   
+
+Welcome to an indoors exhibition of black-and-white photographs shot by __Chris-Armel Iradukunda (daqhris)__, showcased during __RendezVous Brussels Art Week__ on the __4th__ (12:00-22:00), __5th__ and __6th__ (18:00-21:00) of __September 2025__.  
+
+It's a couple of 3-dimensional exhibitions walking their first steps in the minds of visitors, from the virtual world to the physical walls, at __Hectolitre__ for 3 days, on the 2nd floor of Reactor space. Next door or on other floors, your senses will also discover mind-blowing works of art presented by five artists-in-residence.    
+
+__Start here → [exhibition.awalkaday.art/hectolitre](https://exhibition.awalkaday.art/hectolitre)__  
 
 
 > _Date of last website update: [29th of September 2026](https://github.com/awalkaday/exhibition/commits/main/README.md)_
