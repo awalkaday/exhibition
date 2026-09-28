@@ -1,8 +1,16 @@
 # .github/workflows/deploy.yml
 #
-# Builds the Jekyll site (repo root — README.md, hectolitre.md, etc.) and the
-# Simulation #2 app (simulation-2/) separately, merges them into one output, and
-# deploys the result to GitHub Pages.
+# Builds the Simulation #2 app first, replaces its own source folder with the
+# built output, then runs the Jekyll build — which now picks up simulation-2/
+# as an ordinary static folder and copies it into _site/simulation-2/ as part
+# of its own build. Jekyll is the only step that ever writes into _site/.
+#
+# That ordering isn't cosmetic: actions/jekyll-build-pages runs Jekyll inside a
+# Docker container, and the _site/ it produces commonly comes out owned by
+# root — a later step trying to mkdir/cp into it as the runner user fails with
+# "permission denied". Writing into _site/ after Jekyll has run is the bug;
+# never doing that is the fix, regardless of the exact ownership Jekyll leaves
+# behind.
 #
 # One-time manual step this requires: in the repo's Settings > Pages, switch the
 # deployment source from "Deploy from a branch" to "GitHub Actions". The classic
@@ -30,12 +38,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Build Jekyll site
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
-
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
@@ -49,10 +51,16 @@ jobs:
           npm ci
           npm run build
 
-      - name: Merge Simulation #2 into the Jekyll output
+      - name: Replace the app's source with its build output
         run: |
-          mkdir -p _site/simulation-2
-          cp -r simulation-2/dist/. _site/simulation-2/
+          rm -rf simulation-2
+          mv simulation-2-build simulation-2
+
+      - name: Build Jekyll site
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
