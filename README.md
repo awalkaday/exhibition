@@ -18,10 +18,9 @@ For Simulation #2, Iradukunda has built software that reconstructs both rooms as
 
 Naming them, in the re-opened "Trait d'Union" space, eyes moving side-to-side from wall slideshow to wall papers, is this edition's task during RendezVous Brussels Art Week 2026, shared between the artist and whoever walks in. 
 
-#### Venue: Trait d'Union. Rue de l'Hectolitre, 3. 1000 Bruxelles. 
-##### Date: 12 - 13 September 2026  
-##### Time: Saturday 21h - 22h, Sunday 13h - 18h  
+#### Where: Trait d'Union. Rue de l'Hectolitre, 3. 1000 Bruxelles. 
+##### When: 12 - 13 September 2026. Saturday 21h - 22h, Sunday 13h - 18h.     
 
 
 
-> _Date of last website update: [28th of September 2026](https://github.com/awalkaday/exhibition/commits/main/README.md)_
+> _Date of last website update: [29th of September 2026](https://github.com/awalkaday/exhibition/commits/main/README.md)_
