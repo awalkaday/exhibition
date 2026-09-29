@@ -1,6 +1,11 @@
 // Vendored from KilledByAPixel/fxhashArchive (github.com/KilledByAPixel/fxhashArchive),
 // MIT licensed — see simulation-2/THIRD_PARTY_LICENSES/fxhashArchive-LICENSE.
-// Unmodified from the source unless noted below.
+// Deviates from the source in one way: buildPaintingGeometry, buildFrameGeometry,
+// and buildPoolGeometry used the constant EYE_Y for every painting's vertical
+// centre. Each now reads (p.y ?? EYE_Y) instead, so a painting can hang off the
+// default row when it sets types.ts's new optional Painting.y — needed because
+// 123 photos don't fit in one row across the black room's 10.5m of wall. A
+// painting with no y still lands exactly where it always did.
 
 // Turns gallery.json into vertex buffers. Everything is merged by hand into flat
 // arrays — a quad is six vertices — so the whole building is a handful of draw
@@ -210,7 +215,7 @@ export function buildPaintingGeometry(paintings: Painting[], atlas: AtlasMeta, f
   const m = new MeshArrays()
   for (const p of paintings) {
     if (atlasFile(p.tile, atlas) !== file) continue
-    m.quad([p.x, EYE_Y, p.z], scale(rightOf(p), p.w / 2), [0, p.h / 2, 0], normalOf(p), tileUv(p.tile, atlas, p.w / p.h))
+    m.quad([p.x, p.y ?? EYE_Y, p.z], scale(rightOf(p), p.w / 2), [0, p.h / 2, 0], normalOf(p), tileUv(p.tile, atlas, p.w / p.h))
   }
   return m.build()
 }
@@ -220,7 +225,7 @@ export function buildFrameGeometry(paintings: Painting[]): BufferGeometry {
   const m = new MeshArrays()
   for (const p of paintings) {
     const n = normalOf(p)
-    m.quad([p.x - n[0] * 0.01, EYE_Y, p.z - n[2] * 0.01], scale(rightOf(p), p.w / 2 + 0.06), [0, p.h / 2 + 0.06, 0], n)
+    m.quad([p.x - n[0] * 0.01, p.y ?? EYE_Y, p.z - n[2] * 0.01], scale(rightOf(p), p.w / 2 + 0.06), [0, p.h / 2 + 0.06, 0], n)
   }
   return m.build()
 }
@@ -268,7 +273,7 @@ export function buildPoolGeometry(paintings: Painting[]): BufferGeometry {
   const m = new MeshArrays()
   for (const p of paintings) {
     const n = normalOf(p)
-    m.quad([p.x - n[0] * POOL_BACK, EYE_Y, p.z - n[2] * POOL_BACK], scale(rightOf(p), POOL_W / 2), [0, POOL_H / 2, 0], n)
+    m.quad([p.x - n[0] * POOL_BACK, p.y ?? EYE_Y, p.z - n[2] * POOL_BACK], scale(rightOf(p), POOL_W / 2), [0, POOL_H / 2, 0], n)
   }
   return m.build()
 }

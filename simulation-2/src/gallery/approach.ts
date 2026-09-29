@@ -1,6 +1,13 @@
 // Vendored from KilledByAPixel/fxhashArchive (github.com/KilledByAPixel/fxhashArchive),
 // MIT licensed — see simulation-2/THIRD_PARTY_LICENSES/fxhashArchive-LICENSE.
-// Unmodified from the source unless noted below.
+// Deviates from the source in one way: projectedRect used EYE_Y for every
+// painting's vertical centre when computing its on-screen rectangle. It now
+// reads (p.y ?? EYE_Y), matching the same optional per-painting height added to
+// types.ts/geometry.ts — otherwise the zoom-to-view rectangle would land at the
+// wrong height for any painting hung off the default row. applyPose's camera
+// height is untouched on purpose: a visitor's own eye level doesn't jump
+// because the piece they're looking at happens to hang higher or lower, they
+// just tilt their head, which is what happens here too.
 
 // Standing in front of a painting, and where it lands on the screen.
 //
@@ -62,7 +69,7 @@ export function projectedRect(camera: PerspectiveCamera, p: Painting, width: num
   const xs: number[] = []
   const ys: number[] = []
   for (const [sx, sy] of [[-1, -1], [1, -1], [1, 1], [-1, 1]]) {
-    const v = new Vector3(p.x, EYE_Y + (sy * p.h) / 2, p.z).addScaledVector(right, (sx * p.w) / 2).project(camera)
+    const v = new Vector3(p.x, (p.y ?? EYE_Y) + (sy * p.h) / 2, p.z).addScaledVector(right, (sx * p.w) / 2).project(camera)
     xs.push(((v.x + 1) / 2) * width)
     ys.push(((1 - v.y) / 2) * height)
   }

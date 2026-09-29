@@ -50,6 +50,15 @@ export interface Painting {
   x: number; z: number; yaw: number
   tile: number                       // atlas index — see tileUv in geometry.ts
   w: number; h: number                // size on the wall in metres
+  /**
+   * Vertical centre of the painting on the wall, in metres. Optional — the
+   * vendored engine's original shape hangs everything at one fixed height
+   * (EYE_Y, 1.6m); this is our own addition to geometry.ts/approach.ts, added
+   * because 10.5m of black-room wall can't fit 123 photos in a single row.
+   * Absent means EYE_Y, same as the unmodified engine, so nothing that
+   * existed before this field needs to change.
+   */
+  y?: number
   /** Inherited from the source engine's Painting shape. Unused unless an fxhash-sourced piece is ever added. */
   preview?: string
   /** This piece's own colour, the way a room's is — see scene.ts / sculpture.ts. Optional; unset pieces come out plaster white. */
