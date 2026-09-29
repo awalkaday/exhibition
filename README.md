@@ -12,6 +12,11 @@ Naming them, in the re-opened "Trait d'Union" space, eyes moving side-to-side fr
 
 #### Where: Trait d'Union. Rue de l'Hectolitre, 3. 1000 Bruxelles. 
 ##### When: 12 - 13 September 2026. Saturday 21h - 22h, Sunday 13h - 18h.  
+
+3D Gallery (_under construction_): [Virtual _Trait d'Union_ Space - Simulation #2](https://exhibition.awalkaday.art/simulation-2/)  
+Slideshow of B&W Wall Marks: [123 Photographs from Simulation #1](https://exhibition.awalkaday.art/simulation-2/slideshow/marks-loop.mp4)
+
+<video controls src="https://exhibition.awalkaday.art/simulation-2/slideshow/marks-loop.mp4" title="https://exhibition.awalkaday.art/simulation-2/"></video>  
 _ _ _  
 
 ### Simulation #1
