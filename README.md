@@ -8,12 +8,12 @@ The photographs on view were taken on a single evening after RendezVous Brussels
 
 For Simulation #2, Iradukunda has built software that reconstructs both rooms as a digital space, so the photographs can be hung a second time — on physical walls, and on walls that only exist in a browser, accessible on-site or from anywhere. The marks were made by strangers and kept anonymous for a year. 
 
-Naming them, in the re-opened "Trait d'Union" space, eyes moving side-to-side from wall slideshow to wall papers, is this edition's task during RendezVous Brussels Art Week 2026, shared between the artist and whoever walks in. 
+Naming them, in the re-opened "Trait d'Union" room, eyes moving side-to-side from wall slideshow to wall papers, is this edition's task, during RendezVous Brussels Art Week 2026, shared between the artist and whoever walks in. 
 
 #### Where: Trait d'Union. Rue de l'Hectolitre, 3. 1000 Bruxelles. 
 ##### When: 12 - 13 September 2026. Saturday 21h - 22h, Sunday 13h - 18h.  
 
-3D Gallery (_under construction_): [Virtual _Trait d'Union_ Space - Simulation #2](https://exhibition.awalkaday.art/simulation-2/)  
+3D Web Gallery (_under construction_): [Cyber Room for Simulation #2](https://exhibition.awalkaday.art/simulation-2/)  
 Slideshow of B&W Wall Marks: [123 Photographs from Simulation #1](https://exhibition.awalkaday.art/simulation-2/slideshow/marks-loop.mp4)
 
 <video controls width="100%" max-width="800" src="https://exhibition.awalkaday.art/simulation-2/slideshow/marks-loop.mp4" title="https://exhibition.awalkaday.art/simulation-2/"></video>  
