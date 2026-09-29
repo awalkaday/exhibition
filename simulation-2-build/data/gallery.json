@@ -1,0 +1,42 @@
+{
+  "generatedAt": "1970-01-01T00:00:00.000Z",
+  "counts": { "paintings": 0, "artists": 0, "soloRooms": 0, "years": [2025, 2026] },
+  "atlas": { "size": 0, "tile": 0, "gutter": 0, "cols": 0, "files": [], "small": [] },
+  "spawn": { "x": 1.75, "z": 1.75, "yaw": 0 },
+  "namingWindow": { "opens": "2026-09-11T00:00:00+02:00", "closes": "2026-09-13T23:59:00+02:00" },
+  "rooms": [
+    { "id": "white", "kind": "lobby", "title": "White Room", "rect": { "x": 0, "z": 0, "w": 3.5, "d": 3.5 }, "entry": { "x": 1.75, "z": 1.75, "yaw": 0 } },
+    { "id": "black", "kind": "hall", "title": "Black Room", "rect": { "x": 3.5, "z": 0.5, "w": 3.0, "d": 3.0 }, "entry": { "x": 5.0, "z": 1.25, "yaw": 0 } }
+  ],
+  "walls": [
+    { "x1": 0, "z1": 0, "x2": 3.5, "z2": 0, "y0": 0, "y1": 4 },
+    { "x1": 3.5, "z1": 0, "x2": 3.5, "z2": 0.5, "y0": 0, "y1": 4 },
+    { "x1": 3.5, "z1": 2.0, "x2": 2.0, "z2": 2.0, "y0": 0, "y1": 4 },
+    { "x1": 2.0, "z1": 2.0, "x2": 2.0, "z2": 3.5, "y0": 0, "y1": 4 },
+    { "x1": 2.0, "z1": 3.5, "x2": 0, "z2": 3.5, "y0": 0, "y1": 4 },
+    { "x1": 0, "z1": 3.5, "x2": 0, "z2": 0, "y0": 0, "y1": 4 },
+    { "x1": 3.5, "z1": 0.5, "x2": 6.5, "z2": 0.5, "y0": 0, "y1": 4 },
+    { "x1": 6.5, "z1": 0.5, "x2": 6.5, "z2": 2.0, "y0": 0, "y1": 4 },
+    { "x1": 6.5, "z1": 2.0, "x2": 5.0, "z2": 2.0, "y0": 0, "y1": 4 },
+    { "x1": 5.0, "z1": 2.0, "x2": 5.0, "z2": 3.5, "y0": 0, "y1": 4 },
+    { "x1": 5.0, "z1": 3.5, "x2": 3.5, "z2": 3.5, "y0": 0, "y1": 4 },
+    { "x1": 3.5, "z1": 3.5, "x2": 3.5, "z2": 2.0, "y0": 0, "y1": 4 }
+  ],
+  "paintings": [],
+  "signs": [],
+  "about": [
+    {
+      "heading": "Simulation #2",
+      "lines": [
+        "A sequel to last year's Simulation #1, at Hectolitre, Brussels.",
+        "WASD to walk, mouse to look, click to lock the pointer.",
+        "Esc to let go. Rooms, top right, jumps between spaces."
+      ],
+      "touch": [
+        "A sequel to last year's Simulation #1, at Hectolitre, Brussels.",
+        "Drag to look, tap the floor to walk.",
+        "Rooms, top right, jumps between spaces."
+      ]
+    }
+  ]
+}
