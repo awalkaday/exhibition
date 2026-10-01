@@ -2,6 +2,7 @@
 ## Installation, Visual, Performative, Participatory Arts 
 
 ### Simulation #2
+### Born of many marks, Named by few minds
 _Photographic installation with participatory performance and custom 3D web application software_
 
 The photographs on view were taken on a single evening after RendezVous Brussels Art Week 2025, at the close of Simulation #1  — documentation of chalk and spray marks left by visitors across two rooms at Hectolitre over three days. They have not been shown until now. 
