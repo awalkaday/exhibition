@@ -21,7 +21,7 @@ Slideshow of B&W Wall Marks: [123 Photographs from Simulation #1](https://exhibi
 _ _ _  
 
 ### Simulation #1
-### Leave your marks on my exhibition   
+### Leave your marks on my exhibition walls  
 
 Welcome to an indoors exhibition of black-and-white photographs shot by __Chris-Armel Iradukunda (daqhris)__, showcased during __RendezVous Brussels Art Week__ on the __4th__ (12:00-22:00), __5th__ and __6th__ (18:00-21:00) of __September 2025__.  
 
