@@ -1,5 +1,5 @@
-# Hybrid Exhibits: awalkaday.art Photos 
-## Installation, Visual, Participatory Art 
+# Hybrid B&W Photo Art Shows 
+## Installation, Visual, Performative, Participatory Arts 
 
 ### Simulation #2
 _Photographic installation with participatory performance and custom 3D web application software_
