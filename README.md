@@ -30,4 +30,4 @@ It's a couple of 3-dimensional exhibitions walking their first steps in the mind
 __Start here → [exhibition.awalkaday.art/hectolitre](https://exhibition.awalkaday.art/hectolitre)__  
 
 
-> _Date of last website update: [29th of September 2026](https://github.com/awalkaday/exhibition/commits/main/README.md)_
+> _Date of last website update: [2nd of October 2026](https://github.com/awalkaday/exhibition/commits/main/README.md)_
