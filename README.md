@@ -1,5 +1,5 @@
 # Hybrid B&W Photo Art Shows 
-## Installation, Visual, Performative, Participatory Arts 
+## Installation, Visual, Interactive, Participatory Arts 
 
 ### Simulation #2
 ### Born of many marks, Named by few minds
@@ -30,4 +30,4 @@ It's a couple of 3-dimensional exhibitions walking their first steps in the mind
 __Start here → [exhibition.awalkaday.art/hectolitre](https://exhibition.awalkaday.art/hectolitre)__  
 
 
-> _Date of last website update: [2nd of October 2026](https://github.com/awalkaday/exhibition/commits/main/README.md)_
+> _Date of last website update: [3rd of October 2026](https://github.com/awalkaday/exhibition/commits/main/README.md)_
